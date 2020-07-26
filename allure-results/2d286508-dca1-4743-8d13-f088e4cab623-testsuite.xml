@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1595778830925" stop="1595778893796">
+	<name>Hotel Search Tests execution on</name>
+	<title>Hotel Search Tests execution on</title>
+	<test-cases>
+		<test-case start="1595778830926" stop="1595778855357" status="passed">
+			<name>Open Vaccation Travel Site</name>
+			<title>Open Vaccation Travel Site</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="a9c51219-4349-4971-ba48-22e3ca998563-attachment.png" type="image/png" size="323624"/>
+			</attachments>
+		</test-case>
+		<test-case start="1595778855357" stop="1595778858004" status="passed">
+			<name>Click On Hotel Button</name>
+			<title>Click On Hotel Button</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="c88ab98d-13fc-47cc-919d-93e46de3b051-attachment.png" type="image/png" size="327716"/>
+			</attachments>
+		</test-case>
+		<test-case start="1595778858004" stop="1595778865086" status="passed">
+			<name>Enter Destination City</name>
+			<title>Enter Destination City</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="30466107-8519-447c-8275-00759c9da8af-attachment.png" type="image/png" size="327148"/>
+			</attachments>
+		</test-case>
+		<test-case start="1595778865086" stop="1595778869735" status="passed">
+			<name>Enter Check-In Date</name>
+			<title>Enter Check-In Date</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="5cb7b35c-92d2-4065-8263-7fee45f737f0-attachment.png" type="image/png" size="250960"/>
+			</attachments>
+		</test-case>
+		<test-case start="1595778869736" stop="1595778873668" status="passed">
+			<name>Enter Check-Out Date</name>
+			<title>Enter Check-Out Date</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="ee6763a5-4c1b-4d2c-a5fe-9db420770e40-attachment.png" type="image/png" size="328555"/>
+			</attachments>
+		</test-case>
+		<test-case start="1595778873668" stop="1595778875531" status="passed">
+			<name>Select number of adults from dropdown</name>
+			<title>Select number of adults from dropdown</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="435be8ee-643a-44bc-9551-ed164f4c8548-attachment.png" type="image/png" size="271521"/>
+			</attachments>
+		</test-case>
+		<test-case start="1595778875531" stop="1595778878036" status="passed">
+			<name>Select number of childs from dropdown</name>
+			<title>Select number of childs from dropdown</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="1ba09fbb-2bd4-4f8a-9cfb-78a18be5bc59-attachment.png" type="image/png" size="273375"/>
+			</attachments>
+		</test-case>
+		<test-case start="1595778878036" stop="1595778879382" status="passed">
+			<name>Click on + sign</name>
+			<title>Click on + sign</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="de2a2e8c-1885-4b71-9b0f-7cb0683b2148-attachment.png" type="image/png" size="188666"/>
+			</attachments>
+		</test-case>
+		<test-case start="1595778879382" stop="1595778881534" status="passed">
+			<name>Select Ratings</name>
+			<title>Select Ratings</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="2bbb9684-b640-4575-9f9e-cebe02c13179-attachment.png" type="image/png" size="189127"/>
+			</attachments>
+		</test-case>
+		<test-case start="1595778881534" stop="1595778893795" status="passed">
+			<name>Click on Search button</name>
+			<title>Click on Search button</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="025d7a65-3efa-4a26-ae14-88ea50e969eb-attachment.png" type="image/png" size="150534"/>
+			</attachments>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>

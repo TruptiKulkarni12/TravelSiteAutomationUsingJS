@@ -1,0 +1,37 @@
+{
+    "search": {
+      "baseUrl": "http://www.vacationsdirect.com/"
+    },
+    "keywords": {
+      "city":"New York, NY",
+      "startdate":"07/28/20",
+      "enddate":"07/30/20",
+      "adultsCount":"4",
+      "childCount":"2",
+      "ageOfFirstChild":"6",
+      "ageOfSecondChild":"9",
+      "ageOfThirdChild":"7",
+      "ageOfFourthChild":"11",
+      "ageOfFifthChild":"14",
+      "ageOfSixthChild":"12",
+      "raings":"5 Stars"
+  
+    },
+    "hotelSearchResultPage": {
+      "hotelbutton":"//*[@id='search-hotel-button']",
+      "destination":"//*[@id='inputDestination']",
+      "checkInDate":"//*[@id='inputCheckInDate']",
+      "checkOutDate":"//*[@id='inputCheckOutDate']",
+      "searchbutton":"//*[@id='hotelSearchButton']",
+      "starrating":"//*[@id='StarRating']",
+      "autpopulatedcity" :"//*[@id='ui-id-1']/li",
+      "numberofadults" :"selectHotelNumberAdults",
+      "numberofchildren" :"selectHotelNumberChildren",
+      "ageoffirstchild" :"child0HotelAge",
+      "travelLogo" :"//*[@id='4722']/div[2]/div[1]/header/div[2]/a/img']",
+      "hotelratings" :"selectStarRating",
+      "moreOption":"//*[@id='hotelOptionsLink']/span[1]",
+      "searchresultpage":"//*[@id='4762']/div[1]/div[1]/h1",
+      "seconddatepicker": "//*[@id='datepicker-div']/div[1]/div[2]"
+    }
+  }

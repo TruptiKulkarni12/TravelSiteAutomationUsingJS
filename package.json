@@ -1,0 +1,41 @@
+{
+  "name": "finaltravelsiteautomation",
+  "version": "1.0.0",
+  "description": "Hotel Search",
+  "main": "base.conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Trupti Kulkarni",
+  "license": "ISC",
+  "dependencies": {
+    "protractor": "^7.0.0",
+    "fs": "0.0.1-security",
+    "fs-extra": "9.0.1",
+    "graceful-fs": "~4.2.4",
+    "inherits": "2.0.4",
+    "jasmine-reporters": "2.3.2",
+    "jsonfile": "6.0.1",
+    "klaw": "3.0.0",
+    "lodash": "4.17.19",
+    "minimist": "1.2.5",
+    "mkdirp": "~1.0.4",
+    "path": "0.12.7",
+    "process": "0.11.10",
+    "protractor-html-reporter-2": "1.0.4",
+    "sax": "1.2.4",
+    "util": "0.12.3",
+    "xmldoc": "1.1.2",
+    "xmldom": "0.3.0",
+    "allure-commandline": "^2.3.5",
+    "chai": "~4.2.0",
+    "chai-arrays": "2.2.0",
+    "chai-as-promised": "7.1.1",
+    "jasmine": "~3.5.0",
+    "jasmine-allure-reporter": "^0.2.3",
+    "protractor-html-screenshot-report": "~0.0.1-security",
+    "protractor-jasmine2-html-reporter": "0.0.7",
+    "protractor-jasmine2-screenshot-reporter": "~0.5.0",
+    "promise": "8.1.0"
+  }
+}
